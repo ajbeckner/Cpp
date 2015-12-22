@@ -1,0 +1,55 @@
+Title: Inception
+Director: Chrisopher Nolan
+Year: 2010
+Rating: PG13
+IMDB Url: http://www.imdb.com/title/tt1375666/
+Actors:
+Leonardo DiCaprio
+Joseph Gordon Levitt
+Ellen Page
+Cillain Murphy
+Tom Hardy
+Marion Cotillard
+Michael Caine
+Tom hardy
+Dileep Rao
+
+
+Title: Avatar
+Director: James Cameron
+Year: 2009
+Rating: G
+IMDB Url: www.imdb.com/title/tt0499549/
+Actors:
+Sam Worthington
+Zoe Saldana
+Sigourney Weaver
+
+Title: Moulin Rouge
+Director: Baz Luhrmann
+Year: 2001
+Rating: G
+IMDB Url: www.imdb.com/title/tt0203009/
+Actors:
+Ewan McGregor
+Nicole Kidman
+Kylie Minogue
+
+Title: The Great Gatsby
+Director: Baz Luhrmann
+Year: 2013
+Rating: G
+IMDB Url: www.imdb.com/title/tt1343092/
+Actors:
+Leonardo DiCaprio
+Toby Mcguire
+Carey Mulligan
+
+Title: Inglorious Basterds
+Director: Quentin tarantino
+Year: 2009
+Rating: G
+IMDB Url: www.imdb.com/title/tt0361748/
+Actors:
+Brad Pitt
+Christoph Waltz

@@ -1,0 +1,97 @@
+
+Tell me about the next movie:
+What is the title of your movie?
+Avatar
+
+Who is the director of your movie?
+James Cameron
+
+What is the year of your movie?
+2009
+
+What is the rating of your movie?
+pg13
+
+What is the IMDB url of your movie?
+www.imdb.com/title/tt0499549/
+
+
+Tell me about the next movie:
+What is the title of your movie?
+Moulin Rouge
+
+Who is the director of your movie?
+Baz Luhrmann
+
+What is the year of your movie?
+2001
+
+What is the rating of your movie?
+pg13
+
+What is the IMDB url of your movie?
+www.imdb.com/title/tt0203009/
+
+
+Tell me about the next movie:
+What is the title of your movie?
+The Great Gatsby
+
+Who is the director of your movie?
+Baz Luhrmann
+
+What is the year of your movie?
+2013
+
+What is the rating of your movie?
+pg13
+
+What is the IMDB url of your movie?
+www.imdb.com/title/tt1343092/
+
+
+Tell me about the next movie:
+What is the title of your movie?
+Inglorious Basterds
+
+Who is the director of your movie?
+Quentin Tarantino
+
+What is the year of your movie?
+2009
+
+What is the rating of your movie?
+R
+
+What is the IMDB url of your movie?
+www.imdb.com/title/tt0361748/
+
+Title: Inception
+Director: Chrisopher Nolan
+Year: 2010
+Rating: PG13
+IMDB Url: http://www.imdb.com/title/tt1375666/
+
+Title: Avatar
+Director: James Cameron
+Year: 2009
+Rating: G
+IMDB Url: www.imdb.com/title/tt0499549/
+
+Title: moulin Rouge
+Director: Baz Luhrmann
+Year: 2001
+Rating: G
+IMDB Url: www.imdb.com/title/tt0203009/
+
+Title: The Great Gatsby
+Director: Baz Luhrmann
+Year: 2013
+Rating: G
+IMDB Url: www.imdb.com/title/tt1343092/
+
+Title: Inglorious Basterds
+Director: Quentin tarantino
+Year: 2009
+Rating: G
+IMDB Url: www.imdb.com/title/tt0361748/
